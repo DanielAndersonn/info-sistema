@@ -1,0 +1,28 @@
+.marveric{
+
+    position: absolute;
+  
+    margin: -250px;
+    left:800px;
+}
+.title-marveric {
+
+
+    position: absolute;
+  
+    margin: -10px;
+    left:600px;
+
+
+
+}
+
+.Mar-sub{
+
+    position: absolute;
+    margin:50px;
+    text-decoration: none;
+    list-style-type: none;
+    font-family: 'arial';
+    right: 600px;
+}
